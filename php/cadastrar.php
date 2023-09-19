@@ -27,5 +27,4 @@ $curso = [
 
 json_encode(['curso'=>$curso]);
 
-
 ?>

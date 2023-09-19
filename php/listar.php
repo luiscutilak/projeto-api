@@ -26,5 +26,5 @@
 
   //JSON
   json_encode(['cursos'=> $cursos]);
-
+  //var_dump($cursos); //pelo var_dump conseguimos saber si realmente foi criado o arquivo JSON
 ?>
